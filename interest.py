@@ -10,7 +10,7 @@ def simple_intrest(p ,n ,r):
 p = float(input("Please enter Principal in INR : "))
 n = int(input("Please enter number of years : "))
 r = float(input("Please enter rate of Intrest in %p.a. : "))
-
+   
 # Call simple intrest function
 i, a = simple_intrest(p, n, r)
 
